@@ -1,0 +1,8 @@
+project\zalando\deusto\vo\UserVO.class
+project\zalando\deusto\util\ApiOriginFilter.class
+project\zalando\deusto\util\Bootstrap.class
+project\zalando\deusto\data\UserMapper.class
+project\zalando\deusto\dao\UserDAO.class
+project\zalando\deusto\test\Test.class
+project\zalando\deusto\impl\UserDAOImpl.class
+project\zalando\deusto\resource\UserResource.class
