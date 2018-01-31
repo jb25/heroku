@@ -1,1 +1,1 @@
-web: sh src/main/java/webapp
+web: sh src/main/webapp
